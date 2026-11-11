@@ -54,7 +54,8 @@
 
   /* sobre */
   .secao{padding:90px 0}
-  .sobre{display:grid;grid-template-columns:1fr 1.1fr;gap:60px;align-items:center}
+  .sobre{max-width:760px;text-align:center}
+  .sobre .estilos{justify-content:center}
   .sobre .fotos{display:grid;grid-template-columns:1fr 1fr;gap:14px}
   .sobre .fotos img{aspect-ratio:3/4;object-fit:cover;width:100%}
   .sobre .fotos img:nth-child(2){margin-top:48px}
@@ -176,10 +177,6 @@
 
 <section class="secao" id="sobre">
   <div class="faixa sobre">
-    <div class="fotos">
-      <img src="fotos/vestido-yolanda-2.jpg" alt="Detalhe do Vestido Yolanda Primavera" loading="lazy">
-      <img src="fotos/vestido-preto-off-2.jpg" alt="Detalhe do vestido preto e off-white" loading="lazy">
-    </div>
     <div>
       <div class="rotulo">Mais do que um bazar</div>
       <h2>Um closet real, agora aberto pra você</h2>
