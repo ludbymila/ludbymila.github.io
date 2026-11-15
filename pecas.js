@@ -7,6 +7,22 @@
 */
 const PECAS = [
   {
+    "id": "conjunto-seda",
+    "nome": "Conjunto Seda",
+    "marca": "",
+    "categoria": "casual",
+    "tamanho": "G",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 150,
+    "fotos": [
+      "conjunto-seda-1.jpg",
+      "conjunto-seda-2.jpg",
+      "conjunto-seda-3.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "top-track-field",
     "nome": "Top Track Field",
     "marca": "Track Field",
