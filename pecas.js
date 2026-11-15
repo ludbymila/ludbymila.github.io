@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "blusa-gola-alta",
+    "nome": "Blusa Gola Alta",
+    "marca": "Zara",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 100,
+    "fotos": [
+      "blusa-gola-alta-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "cropped-lelisblanc-2",
     "nome": "Cropped Lelisblanc",
     "marca": "Lelisblanc",
