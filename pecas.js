@@ -7,21 +7,6 @@
 */
 const PECAS = [
   {
-    "id": "blusa-seda",
-    "nome": "Blusa Seda",
-    "marca": "",
-    "categoria": "casual",
-    "tamanho": "G",
-    "estado": "Usado poucas vezes",
-    "detalhe": "Perfeito estado",
-    "preco": 60,
-    "fotos": [
-      "blusa-seda-1.jpg",
-      "blusa-seda-2.jpg"
-    ],
-    "vendido": false
-  },
-  {
     "id": "top-track-field",
     "nome": "Top Track Field",
     "marca": "Track Field",
