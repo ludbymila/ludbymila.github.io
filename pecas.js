@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "croped-iorane",
+    "nome": "Croped Iorane",
+    "marca": "Iorane",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 70,
+    "fotos": [
+      "croped-iorane-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "blusa-lavanda",
     "nome": "Blusa Lavanda",
     "marca": "Zara",
