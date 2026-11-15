@@ -7,20 +7,6 @@
 */
 const PECAS = [
   {
-    "id": "macacao-100-couro",
-    "nome": "Macacão 100% Couro",
-    "marca": "",
-    "categoria": "casual",
-    "tamanho": "40",
-    "estado": "Usado poucas vezes",
-    "detalhe": "Perfeito estado",
-    "preco": 300,
-    "fotos": [
-      "macacao-100-couro-1.jpg"
-    ],
-    "vendido": false
-  },
-  {
     "id": "blusa-john-john",
     "nome": "Blusa John John",
     "marca": "John John",
