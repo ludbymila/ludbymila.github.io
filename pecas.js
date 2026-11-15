@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "blusa-paite-animale",
+    "nome": "Blusa Paitê Animale",
+    "marca": "Animale",
+    "categoria": "casual",
+    "tamanho": "P",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 100,
+    "fotos": [
+      "blusa-paite-animale-1.jpg",
+      "blusa-paite-animale-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "croped-bege",
     "nome": "Croped Bege",
     "marca": "",
