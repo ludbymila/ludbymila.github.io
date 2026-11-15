@@ -7,20 +7,6 @@
 */
 const PECAS = [
   {
-    "id": "blusa-live-academia",
-    "nome": "Blusa Live Academia",
-    "marca": "",
-    "categoria": "fitness",
-    "tamanho": "M",
-    "estado": "Usado poucas vezes",
-    "detalhe": "Perfeito estado",
-    "preco": 50,
-    "fotos": [
-      "blusa-live-academia-1.jpg"
-    ],
-    "vendido": false
-  },
-  {
     "id": "blusa-agilita",
     "nome": "Blusa Agilitá",
     "marca": "Agilitá",
