@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "croped-mob",
+    "nome": "Croped Mob",
+    "marca": "Mob",
+    "categoria": "casual",
+    "tamanho": "P",
+    "estado": "Nunca usada",
+    "detalhe": "Perfeito estado",
+    "preco": 80,
+    "fotos": [
+      "croped-mob-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "croped-youcom",
     "nome": "Croped YouCom",
     "marca": "YouCom",
