@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "conjunto-track-field",
+    "nome": "Conjunto Track Field",
+    "marca": "Track Field",
+    "categoria": "fitness",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 180,
+    "fotos": [
+      "conjunto-track-field-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "saia-lacoste",
     "nome": "Saia Lacoste",
     "marca": "Lacoste",
