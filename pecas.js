@@ -7,20 +7,6 @@
 */
 const PECAS = [
   {
-    "id": "blaser-rosa",
-    "nome": "Blaser Rosa",
-    "marca": "",
-    "categoria": "trabalho",
-    "tamanho": "40",
-    "estado": "Usado poucas vezes",
-    "detalhe": "Perfeito estado",
-    "preco": 150,
-    "fotos": [
-      "blaser-rosa-1.jpg"
-    ],
-    "vendido": false
-  },
-  {
     "id": "blaser-animale-alfaiataria",
     "nome": "Blaser Animale Alfaiataria",
     "marca": "Animale",
