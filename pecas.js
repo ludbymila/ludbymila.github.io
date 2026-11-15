@@ -7,20 +7,6 @@
 */
 const PECAS = [
   {
-    "id": "shorts-fabolous",
-    "nome": "Shorts Fabolous",
-    "marca": "Agilitá",
-    "categoria": "casual",
-    "tamanho": "38",
-    "estado": "Usado poucas vezes",
-    "detalhe": "Perfeito estado",
-    "preco": 150,
-    "fotos": [
-      "shorts-fabolous-1.jpg"
-    ],
-    "vendido": false
-  },
-  {
     "id": "vestido-animale",
     "nome": "Vestido Animale",
     "marca": "Animale",
