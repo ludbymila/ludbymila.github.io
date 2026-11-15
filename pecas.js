@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "croped-hit",
+    "nome": "Croped HIT",
+    "marca": "HIT",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 60,
+    "fotos": [
+      "croped-hit-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "shorts-john-john",
     "nome": "Shorts John John",
     "marca": "John John",
