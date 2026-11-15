@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "croped-youcom",
+    "nome": "Croped YouCom",
+    "marca": "YouCom",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 30,
+    "fotos": [
+      "croped-youcom-1.jpg",
+      "croped-youcom-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "blusa-zara",
     "nome": "Blusa Zara",
     "marca": "Zara",
