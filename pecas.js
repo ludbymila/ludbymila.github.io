@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "croped-brocado",
+    "nome": "Croped Brocado",
+    "marca": "",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 60,
+    "fotos": [
+      "croped-brocado-1.jpg",
+      "croped-brocado-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "saia-zara",
     "nome": "Saia Zara",
     "marca": "Zara",
