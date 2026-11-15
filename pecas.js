@@ -7,20 +7,6 @@
 */
 const PECAS = [
   {
-    "id": "vestido-animale",
-    "nome": "Vestido Animale",
-    "marca": "Animale",
-    "categoria": "casual",
-    "tamanho": "G",
-    "estado": "Usado poucas vezes",
-    "detalhe": "Perfeito estado",
-    "preco": 200,
-    "fotos": [
-      "vestido-animale-1.jpg"
-    ],
-    "vendido": false
-  },
-  {
     "id": "macacao-ripndip",
     "nome": "Macacão RIPNDIP",
     "marca": "RipNDip",
