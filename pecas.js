@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "blusa-john-john",
+    "nome": "Blusa John John",
+    "marca": "John John",
+    "categoria": "fitness",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 140,
+    "fotos": [
+      "blusa-john-john-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "legging-ombre",
     "nome": "Legging Ombré",
     "marca": "",
