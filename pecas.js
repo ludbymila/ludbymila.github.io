@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "body-cinza",
+    "nome": "Body Cinza",
+    "marca": "",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 40,
+    "fotos": [
+      "body-cinza-1.jpg",
+      "body-cinza-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "croped-lelisblanc-verde",
     "nome": "Croped Lelisblanc Verde",
     "marca": "Lelisblanc",
