@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "calca-animale-brilho",
+    "nome": "Calça Animale Brilho",
+    "marca": "Animale",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 150,
+    "fotos": [
+      "calca-animale-brilho-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "conjunto-bobo",
     "nome": "Conjunto Bobô",
     "marca": "Bobô",
