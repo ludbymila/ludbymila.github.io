@@ -7,20 +7,6 @@
 */
 const PECAS = [
   {
-    "id": "calca-canal",
-    "nome": "Calça Canal",
-    "marca": "",
-    "categoria": "casual",
-    "tamanho": "M",
-    "estado": "Usado poucas vezes",
-    "detalhe": "Perfeito estado",
-    "preco": 50,
-    "fotos": [
-      "calca-canal-1.jpg"
-    ],
-    "vendido": false
-  },
-  {
     "id": "calca-animale-brilho",
     "nome": "Calça Animale Brilho",
     "marca": "Animale",
