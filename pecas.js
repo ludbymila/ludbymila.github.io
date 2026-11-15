@@ -1024,7 +1024,7 @@ const PECAS = [
       "vestido-black-luxury-2.jpg",
       "vestido-black-luxury-3.jpg"
     ],
-    "vendido": false,
+    "vendido": true,
     "id": "vestido-black-luxury"
   },
   {
