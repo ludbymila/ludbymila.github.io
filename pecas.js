@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "blusa-adidas",
+    "nome": "Blusa Adidas",
+    "marca": "Adidas",
+    "categoria": "fitness",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 60,
+    "fotos": [
+      "blusa-adidas-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "blusa-track-field",
     "nome": "Blusa Track Field",
     "marca": "Track Field",
