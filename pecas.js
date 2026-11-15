@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "legging-preta",
+    "nome": "Legging Preta",
+    "marca": "",
+    "categoria": "fitness",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 50,
+    "fotos": [
+      "legging-preta-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "regata-verde",
     "nome": "Regata Verde",
     "marca": "Animale",
