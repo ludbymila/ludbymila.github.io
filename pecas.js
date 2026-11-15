@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "conjunto-bobo",
+    "nome": "Conjunto Bobô",
+    "marca": "Bobô",
+    "categoria": "casual",
+    "tamanho": "P",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 150,
+    "fotos": [
+      "conjunto-bobo-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "body-cinza",
     "nome": "Body Cinza",
     "marca": "",
