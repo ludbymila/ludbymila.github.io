@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "blusa-lavanda",
+    "nome": "Blusa Lavanda",
+    "marca": "Zara",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 160,
+    "fotos": [
+      "blusa-lavanda-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "blusa-regata",
     "nome": "Blusa Regata",
     "marca": "Lelisblanc",
