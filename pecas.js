@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "saia-jeans-bobo",
+    "nome": "Saia Jeans Bobô",
+    "marca": "Bobô",
+    "categoria": "casual",
+    "tamanho": "40",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 60,
+    "fotos": [
+      "saia-jeans-bobo-1.jpg",
+      "saia-jeans-bobo-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "blaser-rosa",
     "nome": "Blaser Rosa",
     "marca": "",
