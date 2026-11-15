@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "croped-rosa",
+    "nome": "Croped Rosa",
+    "marca": "Agilitá",
+    "categoria": "casual",
+    "tamanho": "40",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 80,
+    "fotos": [
+      "croped-rosa-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "biquini-rosa",
     "nome": "Biquíni Rosa",
     "marca": "",
