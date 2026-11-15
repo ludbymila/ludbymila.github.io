@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "shorts-saia-animale",
+    "nome": "Shorts Saia Animale",
+    "marca": "",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 120,
+    "fotos": [
+      "shorts-saia-animale-1.jpg",
+      "shorts-saia-animale-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "blusa-gola-alta",
     "nome": "Blusa Gola Alta",
     "marca": "Zara",
