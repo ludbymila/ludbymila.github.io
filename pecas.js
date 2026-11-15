@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "legging-track-field",
+    "nome": "Legging Track Field",
+    "marca": "Lorna Jane",
+    "categoria": "fitness",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 120,
+    "fotos": [
+      "legging-track-field-1.jpg",
+      "legging-track-field-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "croped-iorane",
     "nome": "Croped Iorane",
     "marca": "Iorane",
