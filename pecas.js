@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "blusa-agilita",
+    "nome": "Blusa Agilitá",
+    "marca": "Agilitá",
+    "categoria": "casual",
+    "tamanho": "38",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 80,
+    "fotos": [
+      "blusa-agilita-1.jpg",
+      "blusa-agilita-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "saia-animale-3",
     "nome": "Saia Animale",
     "marca": "Animale",
