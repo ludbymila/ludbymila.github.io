@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "vestido-paite-black",
+    "nome": "Vestido Paitê Black",
+    "marca": "Adriana Papell",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 250,
+    "fotos": [
+      "vestido-paite-black-1.jpg",
+      "vestido-paite-black-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "calca-paite-animale",
     "nome": "Calça Paitê Animale",
     "marca": "Animale",
