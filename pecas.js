@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "biquini-preto",
+    "nome": "Biquíni Preto",
+    "marca": "Cia Marítima",
+    "categoria": "casual",
+    "tamanho": "G",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 120,
+    "fotos": [
+      "biquini-preto-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "legging-track-field",
     "nome": "Legging Track Field",
     "marca": "Lorna Jane",
