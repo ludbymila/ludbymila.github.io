@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "regata-verde",
+    "nome": "Regata Verde",
+    "marca": "Animale",
+    "categoria": "casual",
+    "tamanho": "G",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 100,
+    "fotos": [
+      "regata-verde-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "croped-rosa",
     "nome": "Croped Rosa",
     "marca": "Agilitá",
