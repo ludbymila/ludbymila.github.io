@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "croped-bege",
+    "nome": "Croped Bege",
+    "marca": "",
+    "categoria": "casual",
+    "tamanho": "P",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 40,
+    "fotos": [
+      "croped-bege-1.jpg",
+      "croped-bege-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "saia-jeans-bobo",
     "nome": "Saia Jeans Bobô",
     "marca": "Bobô",
