@@ -7,21 +7,6 @@
 */
 const PECAS = [
   {
-    "id": "shorts-john-john-2",
-    "nome": "Shorts John John",
-    "marca": "John John",
-    "categoria": "casual",
-    "tamanho": "38",
-    "estado": "Usado poucas vezes",
-    "detalhe": "Perfeito estado",
-    "preco": 150,
-    "fotos": [
-      "shorts-john-john-2-1.jpg",
-      "shorts-john-john-2-2.jpg"
-    ],
-    "vendido": false
-  },
-  {
     "id": "croped-lelisblanc",
     "nome": "Croped Lelisblanc",
     "marca": "Lelisblanc",
