@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "calca-voar",
+    "nome": "Calça Voar",
+    "marca": "",
+    "categoria": "casual",
+    "tamanho": "G",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 50,
+    "fotos": [
+      "calca-voar-1.jpg",
+      "calca-voar-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "blusa-bobo",
     "nome": "Blusa Bobô",
     "marca": "",
