@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "cropped-lelisblanc",
+    "nome": "Cropped Lelisblanc",
+    "marca": "Lelisblanc",
+    "categoria": "casual",
+    "tamanho": "40",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 50,
+    "fotos": [
+      "cropped-lelisblanc-1.jpg",
+      "cropped-lelisblanc-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "calca-animale-2",
     "nome": "Calça Animale",
     "marca": "Animale",
