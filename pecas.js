@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "saia-zara",
+    "nome": "Saia Zara",
+    "marca": "Zara",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 60,
+    "fotos": [
+      "saia-zara-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "shorts-saia-roxo",
     "nome": "Shorts Saia Roxo",
     "marca": "",
