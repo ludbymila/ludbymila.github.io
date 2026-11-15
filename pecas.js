@@ -7,21 +7,6 @@
 */
 const PECAS = [
   {
-    "id": "croped-black-nxt",
-    "nome": "Croped Black NXT",
-    "marca": "NXT",
-    "categoria": "casual",
-    "tamanho": "40",
-    "estado": "Usado poucas vezes",
-    "detalhe": "Perfeito estado",
-    "preco": 50,
-    "fotos": [
-      "croped-black-nxt-1.jpg",
-      "croped-black-nxt-2.jpg"
-    ],
-    "vendido": false
-  },
-  {
     "id": "croped-animale",
     "nome": "Croped Animale",
     "marca": "Animale",
