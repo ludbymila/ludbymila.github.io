@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "vestido-agilita",
+    "nome": "Vestido Agilitá",
+    "marca": "",
+    "categoria": "casual",
+    "tamanho": "38",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 120,
+    "fotos": [
+      "vestido-agilita-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "nome": "Vestido Yolanda Primavera",
     "marca": "Agilitá Fabulous",
     "categoria": "casual",
