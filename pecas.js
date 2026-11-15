@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "body-john-john-brilho",
+    "nome": "Body John John Brilho",
+    "marca": "John John",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 150,
+    "fotos": [
+      "body-john-john-brilho-1.jpg",
+      "body-john-john-brilho-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "blusa-paite-animale",
     "nome": "Blusa Paitê Animale",
     "marca": "Animale",
