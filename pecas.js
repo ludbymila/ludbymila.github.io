@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "calca-animale-2",
+    "nome": "Calça Animale",
+    "marca": "Animale",
+    "categoria": "casual",
+    "tamanho": "40",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 200,
+    "fotos": [
+      "calca-animale-2-1.jpg",
+      "calca-animale-2-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "croped-creme",
     "nome": "Croped Creme",
     "marca": "",
