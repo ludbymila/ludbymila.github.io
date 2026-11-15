@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "vestido-td",
+    "nome": "Vestido TD",
+    "marca": "",
+    "categoria": "casual",
+    "tamanho": "P",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 150,
+    "fotos": [
+      "vestido-td-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "blusa-animale",
     "nome": "Blusa Animale",
     "marca": "Animale",
