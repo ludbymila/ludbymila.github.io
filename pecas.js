@@ -22,20 +22,6 @@ const PECAS = [
     "vendido": false
   },
   {
-    "id": "vestido-paite-black",
-    "nome": "Vestido Paitê Black",
-    "marca": "Adriana Papell",
-    "categoria": "casual",
-    "tamanho": "M",
-    "estado": "Usado poucas vezes",
-    "detalhe": "Perfeito estado",
-    "preco": 250,
-    "fotos": [
-      "vestido-paite-black-1.jpg"
-    ],
-    "vendido": false
-  },
-  {
     "id": "blusa-live-academia",
     "nome": "Blusa Live Academia",
     "marca": "",
