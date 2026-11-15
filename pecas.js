@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "shorts-saia-roxo",
+    "nome": "Shorts Saia Roxo",
+    "marca": "",
+    "categoria": "casual",
+    "tamanho": "40",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 40,
+    "fotos": [
+      "shorts-saia-roxo-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "body-john-john-brilho",
     "nome": "Body John John Brilho",
     "marca": "John John",
