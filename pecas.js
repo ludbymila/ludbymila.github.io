@@ -7,20 +7,6 @@
 */
 const PECAS = [
   {
-    "id": "legging-ombre",
-    "nome": "Legging Ombré",
-    "marca": "",
-    "categoria": "fitness",
-    "tamanho": "M",
-    "estado": "Nunca usada",
-    "detalhe": "Perfeito estado",
-    "preco": 50,
-    "fotos": [
-      "legging-ombre-1.jpg"
-    ],
-    "vendido": false
-  },
-  {
     "id": "conjunto-seda",
     "nome": "Conjunto Seda",
     "marca": "",
