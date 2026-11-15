@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "shorts-john-john",
+    "nome": "Shorts John John",
+    "marca": "John John",
+    "categoria": "casual",
+    "tamanho": "40",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 120,
+    "fotos": [
+      "shorts-john-john-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "macacao-100-couro",
     "nome": "Macacão 100% Couro",
     "marca": "",
