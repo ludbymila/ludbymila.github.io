@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "blusa-bobo",
+    "nome": "Blusa Bobô",
+    "marca": "",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 40,
+    "fotos": [
+      "blusa-bobo-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "croped-black-nxt",
     "nome": "Croped Black NXT",
     "marca": "NXT",
