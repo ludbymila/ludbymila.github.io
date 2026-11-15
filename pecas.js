@@ -911,7 +911,7 @@ const PECAS = [
       "vestido-yolanda-2.jpg",
       "vestido-yolanda-3.jpg"
     ],
-    "vendido": false,
+    "vendido": true,
     "id": "vestido-yolanda-primavera"
   },
   {
