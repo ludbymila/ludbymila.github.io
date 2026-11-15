@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "blaser-animale-alfaiataria",
+    "nome": "Blaser Animale Alfaiataria",
+    "marca": "Animale",
+    "categoria": "trabalho",
+    "tamanho": "40",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 200,
+    "fotos": [
+      "blaser-animale-alfaiataria-1.jpg",
+      "blaser-animale-alfaiataria-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "calca-canal",
     "nome": "Calça Canal",
     "marca": "",
