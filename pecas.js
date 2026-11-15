@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "croped-lelisblanc",
+    "nome": "Croped Lelisblanc",
+    "marca": "Lelisblanc",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 50,
+    "fotos": [
+      "croped-lelisblanc-1.jpg",
+      "croped-lelisblanc-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "shorts-academia",
     "nome": "Shorts Academia",
     "marca": "",
