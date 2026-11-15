@@ -7,20 +7,6 @@
 */
 const PECAS = [
   {
-    "id": "blusa-animale",
-    "nome": "Blusa Animale",
-    "marca": "Animale",
-    "categoria": "casual",
-    "tamanho": "G",
-    "estado": "Usado poucas vezes",
-    "detalhe": "Perfeito estado",
-    "preco": 150,
-    "fotos": [
-      "blusa-animale-1.jpg"
-    ],
-    "vendido": false
-  },
-  {
     "id": "conjunto-animale",
     "nome": "Conjunto Animale",
     "marca": "Animale",
