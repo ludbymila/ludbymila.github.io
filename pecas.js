@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "saia-lacoste",
+    "nome": "Saia Lacoste",
+    "marca": "Lacoste",
+    "categoria": "casual",
+    "tamanho": "44",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 200,
+    "fotos": [
+      "saia-lacoste-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "croped-brocado",
     "nome": "Croped Brocado",
     "marca": "",
