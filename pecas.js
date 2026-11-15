@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "macacao-ripndip",
+    "nome": "Macacão RIPNDIP",
+    "marca": "RipNDip",
+    "categoria": "casual",
+    "tamanho": "G",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 40,
+    "fotos": [
+      "macacao-ripndip-1.jpg",
+      "macacao-ripndip-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "vestido-zara",
     "nome": "Vestido Zara",
     "marca": "Zara",
