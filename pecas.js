@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "croped-animale",
+    "nome": "Croped Animale",
+    "marca": "Animale",
+    "categoria": "casual",
+    "tamanho": "42",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 100,
+    "fotos": [
+      "croped-animale-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "croped-hit",
     "nome": "Croped HIT",
     "marca": "HIT",
