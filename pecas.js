@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "biquini-rosa",
+    "nome": "Biquíni Rosa",
+    "marca": "",
+    "categoria": "casual",
+    "tamanho": "G",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 80,
+    "fotos": [
+      "biquini-rosa-1.jpg",
+      "biquini-rosa-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "biquini-preto",
     "nome": "Biquíni Preto",
     "marca": "Cia Marítima",
