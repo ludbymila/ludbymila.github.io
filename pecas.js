@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "conjunto-animale",
+    "nome": "Conjunto Animale",
+    "marca": "Animale",
+    "categoria": "casual",
+    "tamanho": "G",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 350,
+    "fotos": [
+      "conjunto-animale-1.jpg",
+      "conjunto-animale-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "legging-preta",
     "nome": "Legging Preta",
     "marca": "",
