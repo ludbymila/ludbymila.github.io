@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "blusa-regata",
+    "nome": "Blusa Regata",
+    "marca": "Lelisblanc",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Nunca usada",
+    "detalhe": "Perfeito estado",
+    "preco": 70,
+    "fotos": [
+      "blusa-regata-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "shorts-saia-animale",
     "nome": "Shorts Saia Animale",
     "marca": "",
