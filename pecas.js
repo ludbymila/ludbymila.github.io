@@ -7,20 +7,6 @@
 */
 const PECAS = [
   {
-    "id": "macacao-hardyn",
-    "nome": "Macacão Hardyn",
-    "marca": "Hardyn",
-    "categoria": "fitness",
-    "tamanho": "M",
-    "estado": "Usado poucas vezes",
-    "detalhe": "Perfeito estado",
-    "preco": 120,
-    "fotos": [
-      "macacao-hardyn-1.jpg"
-    ],
-    "vendido": false
-  },
-  {
     "id": "conjunto-track-field",
     "nome": "Conjunto Track Field",
     "marca": "Track Field",
