@@ -7,6 +7,21 @@
 */
 const PECAS = [
   {
+    "id": "blusa-track-field",
+    "nome": "Blusa Track Field",
+    "marca": "Track Field",
+    "categoria": "fitness",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 80,
+    "fotos": [
+      "blusa-track-field-1.jpg",
+      "blusa-track-field-2.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "macacao-hardyn",
     "nome": "Macacão Hardyn",
     "marca": "Hardyn",
