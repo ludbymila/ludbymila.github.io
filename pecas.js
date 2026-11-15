@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "saia-animale-3",
+    "nome": "Saia Animale",
+    "marca": "Animale",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 350,
+    "fotos": [
+      "saia-animale-3-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "vestido-td",
     "nome": "Vestido TD",
     "marca": "",
