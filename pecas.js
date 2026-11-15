@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "vestido-zara",
+    "nome": "Vestido Zara",
+    "marca": "Zara",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 100,
+    "fotos": [
+      "vestido-zara-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "vestido-paite-black",
     "nome": "Vestido Paitê Black",
     "marca": "Adriana Papell",
