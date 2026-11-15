@@ -7,6 +7,20 @@
 */
 const PECAS = [
   {
+    "id": "blusa-zara",
+    "nome": "Blusa Zara",
+    "marca": "Zara",
+    "categoria": "casual",
+    "tamanho": "M",
+    "estado": "Usado poucas vezes",
+    "detalhe": "Perfeito estado",
+    "preco": 50,
+    "fotos": [
+      "blusa-zara-1.jpg"
+    ],
+    "vendido": false
+  },
+  {
     "id": "shorts-john-john-2",
     "nome": "Shorts John John",
     "marca": "John John",
